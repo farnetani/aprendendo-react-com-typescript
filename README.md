@@ -1,6 +1,8 @@
 <h3 align="center">
-  Template Create React App Full
+  Aprendendo React com Typescript
 </h3>
+
+<h4>Contador via Context-Api</h4>
 
 <p align="center">
   <a href="https://farsoft.com.br">
